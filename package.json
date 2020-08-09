@@ -1,0 +1,12 @@
+{
+  "name": "funwithmodule",
+  "version": "1.0.0",
+  "description": "learning about npm",
+  "main": "index.js",
+
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "bshanahan",
+  "license": "ISC"
+}
